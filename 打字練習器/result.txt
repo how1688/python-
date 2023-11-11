@@ -1,0 +1,8 @@
+題目:
+Expect Practice Count : 
+Actual Practice Count :
+Error Number :
+Correct Number :
+Correct Rate :
+Correct Level :
+Average Speed : 
